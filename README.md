@@ -2,14 +2,11 @@
 ## by Ufuoma Ejite
 
 
-## Dataset
+## Dataset and Data Source
 
 [Prosper](https://www.prosper.com/) was founded in 2005 as the first peer-to-peer lending marketplace in the United States. Since then, Prosper has facilitated more than $21 billion dollars in loans to more than 1,300,000 people. <br />
 The data consists of information regarding 113937 loan listings. The dataset can be found [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv),
 with features documentation available [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0).
-
-## Data Source <br>
-[Prosper](https://www.prosper.com/)
 
 ## Tools Used <br>
 - Pandas🐼 <br>
