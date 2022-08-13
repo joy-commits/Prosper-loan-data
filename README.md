@@ -8,8 +8,17 @@
 The data consists of information regarding 113937 loan listings. The dataset can be found [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv),
 with features documentation available [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0).
 
+## Data Source <br>
+[Prosper](https://www.prosper.com/)
+
+## Tools Used <br>
+- Pandas🐼 <br>
+- Seaborn <br>
+- Matplotlib <br>
+- Jupyter
 
 ## Summary of Findings
+
 In this exploration, I observed that there was a strong relationship between the
 borrower's APR and lender's yield (the higher the APR, the higher the lender's 
 yield and vice versa). Also, the smaller loan amounts had higher APRs compared 
