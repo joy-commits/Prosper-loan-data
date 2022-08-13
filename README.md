@@ -10,7 +10,6 @@ with features documentation available [here](https://docs.google.com/spreadsheet
 
 
 ## Summary of Findings
-
 In this exploration, I observed that there was a strong relationship between the
 borrower's APR and lender's yield (the higher the APR, the higher the lender's 
 yield and vice versa). Also, the smaller loan amounts had higher APRs compared 
